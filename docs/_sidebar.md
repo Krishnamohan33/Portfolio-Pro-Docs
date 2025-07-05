@@ -1,0 +1,8 @@
+- [🏠 Introduction](/)
+- [🚀 Getting Started](getting-started.md)
+- [🎨 Customization](customization.md)
+- [🌟 Add Favicon](favicon.md)
+- [🚀 Deployment](deployment.md)
+- [❓ FAQ](faq.md)
+- [🔐 License](license.md)
+- [📢 Customer Notice](notice.md)
