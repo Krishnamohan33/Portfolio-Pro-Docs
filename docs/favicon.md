@@ -27,9 +27,7 @@ src/app/favicon.ico
 
 ---
 
-### ✅ 3. Link Favicon in Layout File
 
-Open the file:
 
 
 
