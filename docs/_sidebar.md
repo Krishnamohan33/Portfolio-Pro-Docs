@@ -6,3 +6,4 @@
 - [❓ FAQ](faq.md)
 - [🔐 License](license.md)
 - [📢 Customer Notice](notice.md)
+-[📄 Resume Download](resume.md)
