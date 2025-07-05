@@ -10,5 +10,6 @@ Welcome to the official documentation for **Portfolio Pro**, a fully responsive 
 - [Customization](customization.md)
 - [Deployment](deployment.md)
 - [FAQ](faq.md)
+- [🌟 Adding a Favicon](favicon.md)
 - [License](license.md)
 - [Customer Notice](notice.md)
